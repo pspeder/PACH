@@ -1,46 +1,41 @@
 ## Festivalsæt 2017
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-        <h3>Sæt 1</h3>
-        <pre>
-        - Det er godt at se dig       
-        - Hele ugen alene
-        - Kærligheden Brænder
-        - En enkelt sang om frihed
-        - I saw her standing there
-        - Kvinde Min
-        - Vimmersvej
-        - Ta' med ud og fisk
-        - Så længe jeg lever (lykke)
-        - Blaffersangen
-        - Kald det kærlighed
-        - Himmelhunden
-        - Jeg ved en lærkerede
-        </pre>
-    </div>
-    <div style="display: inline-block;">
-        <h3>Sæt 2</h3>
-        <pre>
-        - Den røde tråd
-        - Sommer og sol
-        - This Is My Life
-        - I en lille båd
-        - When a Man Loves a Woman
-        - Susanne, Birgitte og Hanne
-        - Fiskeren Fra Hvide Sande
-        - Whiskey in the Jar (violinister)
-        - Black Velvet Band (violinister)
-        - Wild Rover (violinister)
-        - På Valsen (violinister)
-        - Smuk og dejlig
-        - Living Next door to Alice
-        - Om lidt
-        </pre>
-    </div>
-</div>
-
 <table>
+  <tr>
+    <td>
+### Sæt 1
+- Det er godt at se dig       
+- Hele ugen alene
+- Kærligheden Brænder
+- En enkelt sang om frihed
+- I saw her standing there
+- Kvinde Min
+- Vimmersvej
+- Ta' med ud og fisk
+- Så længe jeg lever (lykke)
+- Blaffersangen
+- Kald det kærlighed
+- Himmelhunden
+- Jeg ved en lærkerede
+    </td>
+    <td>
+### Sæt 2
+- Den røde tråd
+- Sommer og sol
+- This Is My Life
+- I en lille båd
+- When a Man Loves a Woman
+- Susanne, Birgitte og Hanne
+- Fiskeren Fra Hvide Sande
+- Whiskey in the Jar (violinister)
+- Black Velvet Band (violinister)
+- Wild Rover (violinister)
+- På Valsen (violinister)
+- Smuk og dejlig
+- Living Next door to Alice
+- Om lidt
+    </td>
+  </tr>
   <tr>
     <td>
 ### Ekstranumre
@@ -57,6 +52,7 @@
 - Jeg har en ven        G
 - Så længe jeg lever    G (capo 2 -> A)
     </td>
+    <td>
 ### Violinister:
 - Åh Susanne
 - You are my sunshine
