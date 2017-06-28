@@ -1,5 +1,5 @@
 # Festivalsæt 2017
-##Sæt 1
+## Sæt 1
 - Det er godt at se dig
 - Hele ugen alene
 - Kærligheden Brænder
@@ -14,7 +14,7 @@
 - Himmelhunden
 - Jeg ved en lærkerede
 
-##Sæt 2
+## Sæt 2
 - Den røde tråd
 - Sommer og sol
 - This Is My Life
@@ -30,7 +30,7 @@
 - Living Next door to Alice
 - Om lidt
 
-##Ekstranumre
+## Ekstranumre
 - To lys på et bord
 - What a Wonderful World
 - Honky Tonk Woman
@@ -38,7 +38,7 @@
 - Proud Mary (Carl)
 - Stand By Me
 
-##Violinister:
+## Violinister:
 - Åh Susanne
 - You are my sunshine
 - Gärdebylåten
@@ -51,27 +51,27 @@
 - Whiskey in the Jar
 - (Cockles and Mussels)
 
-##Lykke:
+## Lykke:
 - Sorte Rudolf          C
 - Avenuen               C (capo 4/5 -> E/F)
 - Jeg har en ven        G
 - Så længe jeg lever    G (capo 2 -> A)
 
-##Carl:
+## Carl:
 - Tutti Frutti
 - Proud Mary
 - I'm ready
 - My Babe
 - Sweet Nothing
 
-##Sanne
+## Sanne
 - I shall be released
 - Don't Let Me Down
 
-##Norske
+## Norske
 - Kringsat af fiender
 
-##Svenske
+## Svenske
 - Segla forutan vind
 - Sång til frihetan
 - Åbent Landskab
